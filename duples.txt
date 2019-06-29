@@ -15,42 +15,6 @@ placeholder
 placeholder
 placeholder
 placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
-placeholder
 Eastern Long LionsFukien6.5
 Henry CraigEdoardo Graziani7.2
 Aslan KaratsevSebastian Fanselow3.55
@@ -198,3 +162,39 @@ Kelsey StevensonCheong-Eui Kim6.4
 ProstejovTrinec3.6
 Enskede IKIFK Aspudden-Tellus8.65
 FC Sheriff TiraspolFC Speranta8.47
+Mt Druitt Town Rangers U20Wollongong Wolves FC U204.2
+Rockingham CityPerth5.75
+Yanbian BeiguoBeijing Institute of Technology FC6.25
+Debrecen VSCNyiregyhaza Spartacus FC6.65
+Cairns Dolphins (W)Mackay Meteorettes (W)5.7
+SK Sigma OlomoucPardubice4.6
+Macarthur RamsGHFA Spirit FC7.7
+Dandenong RangersKilsyth Cobras1.82
+AFC AjaxAaB Aalborg6.0
+Eastern MavericksNorth Adelaide Rockets8.5
+Zhejiang Yiwu MallChengdu Qianbao9.0
+Onsala BKStafsinge IF6.4
+Shanghai ShenxinMeizhou Hakka6.32
+Gyori ETO FCMatador Puchov7.0
+FK PanevezysFK Zalgiris Vilnius8.0
+BSC Young Boys BernVfB Stuttgart3.16
+FC TrollhaettanLunds BK7.4
+Tampere UnitedKaaPo7.45
+RommenLorenskog IF6.75
+Spartaks JurmalaRigas Futbola Skola3.6
+AC Sparta PrahaCFR 1907 Cluj2.73
+Nastja KolarAlycia Parks3.29
+Universidad Cesar VallejoAlianza Atletico6.6
+Manly United FC U20Sutherland Sharks U202.85
+APIA Leichhardt Tigers U20Hakoah Sydney City East U208.25
+Sydney Olympic U20Rockdale City Suns U203.6
+Sydney United 58 U20Marconi Stallions U202.85
+Dalian BoyangBaoding Yingli Yitong4.75
+Eltham Wildcats (W)Bendigo Braves (W)3.6
+Ballarat Miners (W)Diamond Valley Eagles (W)6.5
+MauritaniaAngola6.6
+Neuchatel Xamax FCFK Tuzla City6.5
+Wiener SKCeltic FC8.27
+Kecskemeti TEPaksi FC8.36
+Germany (W)Sweden (W)7.57
+BrazilCanada4.56
