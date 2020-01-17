@@ -7,6 +7,14 @@ import time
 from lxml import html
 import requests
 from selenium.webdriver.firefox.options import Options
+import datetime
+
+# Parameter für Wetten:
+grenzratio = 1.03
+grenzavg = 15
+globalazq = 0.93
+globaltx = 0.95
+bookiesList = ["bet365", "Betano.de"]
 
 options = Options()
 options.headless = True
